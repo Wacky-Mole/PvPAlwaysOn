@@ -1,5 +1,7 @@
 ## Changelog (latest patch listed first)
 
+### 2.1.3
+* Wacky Takeover
 ### 2.1.2
 * Update ServerSync and other shit for 0.220.3
 ### 2.1.1

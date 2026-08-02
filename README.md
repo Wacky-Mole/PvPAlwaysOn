@@ -1,4 +1,4 @@
-## Description
+## Description & Old History
 
 Remake of mine and TheDefiance2017's mod on nexus made again by request. This is a mod that is intended to be used on a
 forced PvP server. This mod makes it to where PvP cannot be toggled by the player, and PvP is set to always be on.
@@ -19,20 +19,17 @@ BetterWards have a toggle in the configuration file of this mod if you want this
 If you are installing this manually make sure you have BepInEx installed correctly then put the DLL inside the
 BepInEx/plugins folder on both the server and client to enforce the PvP settings.
 
-# Author Information
+#  Author Information
 
-### Azumatt
+## WackyMole
+
+For questions or suggestions please join discord channel: [Odin Plus Team](https://discord.gg/odinplus) or my discord at [Wolf Den](https://discord.gg/uPjjH8y52j)
+
+
+### Previous Author: Azumatt
 
 `DISCORD:` Azumatt#2625
 
-`STEAM:` https://steamcommunity.com/id/azumatt/
-
 For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
 
-[![https://i.imgur.com/XXP6HCU.png](https://i.imgur.com/XXP6HCU.png)](https://discord.gg/Pb6bVMnFb2)
-<a href="https://discord.gg/pdHgy6Bsng"><img src="https://i.imgur.com/Xlcbmm9.png" href="https://discord.gg/pdHgy6Bsng" width="175" height="175"></a>
-
-
-Questions? Ask here.
--
-https://discord.gg/Pb6bVMnFb2
+[![https://i.imgur.com/XXP6HCU.png](https://i.imgur.com/XXP6HCU.png)]
