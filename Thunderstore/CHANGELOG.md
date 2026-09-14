@@ -1,5 +1,7 @@
 ## Changelog (latest patch listed first)
 
+### 2.1.4
+* Deep North
 ### 2.1.3
 * Wacky Takeover
 ### 2.1.2

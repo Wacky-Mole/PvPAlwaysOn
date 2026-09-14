@@ -10,6 +10,15 @@ The original mod can be found here: https://www.nexusmods.com/valheim/mods/448?t
 
 `**NOTE** This mod is meant to be installed on the server and all clients`
 
+<div style="text-align: center;">
+  <a href="https://www.survivalservers.com/services/game_servers/valheim/?ref=WackyMole">
+    <img
+      src="https://www.wackymole.com/hosts/WackySurvivalBanner.png"
+      alt="Valheim Server Hosting - Survival Servers"
+      style="display: inline-block; width: 768px; max-width: 100%; height: auto;">
+  </a>
+</div>
+
 ## Compatibility
 
 This mod uses Marketplace and WardIsLove APIs to check if the player is in a PvP/PvE zone. If you are using Marketplace
@@ -23,7 +32,7 @@ BepInEx/plugins folder on both the server and client to enforce the PvP settings
 
 ## WackyMole
 
-For questions or suggestions please join discord channel: [Odin Plus Team](https://discord.gg/odinplus) or my discord at [Wolf Den](https://discord.gg/uPjjH8y52j)
+For questions or suggestions please join discord channel: [Odin Plus Team](https://discord.gg/jkcJCq2sK5) or my discord at [Wolf Den](https://discord.gg/uPjjH8y52j)
 
 
 ### Previous Author: Azumatt
